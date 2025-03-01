@@ -297,4 +297,4 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 
-[<h4>Now continue here</h4>](url)
+[<h4>Now continue here</h4>](https://github.com/niiobdavid/post-install-config/)
