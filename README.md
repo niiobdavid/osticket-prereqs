@@ -231,8 +231,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Default email (receives email from customers)
 
 <p>
-  <img src="https://i.imgur.com/Hb7LuTI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/mKIv3Yk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 <br />
 
@@ -261,9 +260,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Click “Install Now!”
 
 <p>
-  <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  
-  
+  <img src="https://i.imgur.com/TNGYxeN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/7bMdzBy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 <br />
 
